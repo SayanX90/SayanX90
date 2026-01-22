@@ -90,7 +90,6 @@
   <img src="https://raw.githubusercontent.com/SayanX90/SayanX90/output/snake.svg" alt="Snake animation" />
 </p>
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&theme=cobalt" />

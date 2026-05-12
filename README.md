@@ -103,17 +103,16 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SayanX90&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=SayanX90&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" 
+    height="170"
+  />
+  
+  <img 
+    src="https://streak-stats.demolab.com?user=SayanX90&theme=github-dark&hide_border=true" 
     height="170"
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SayanX90&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-</p>
 
 ---
 

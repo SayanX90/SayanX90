@@ -103,7 +103,7 @@
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=SayanX90&theme=tokyonight&no-frame=true&row=1&column=6" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanX90&layout=compact&theme=tokyonight&hide_border=true" 
   />
 </p>
 

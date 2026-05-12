@@ -103,8 +103,7 @@
 
 <p align="center">
   <img 
-    src="https://github-contributor-stats.vercel.app/api?username=SayanX90&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" 
-    alt="Top Contributed Repo"
+    src="https://github-profile-trophy.vercel.app/?username=SayanX90&theme=tokyonight&no-frame=true&row=1&column=6" 
   />
 </p>
 

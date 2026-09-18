@@ -14,8 +14,9 @@
 
 👨‍💻 Frontend Developer focused on building clean, responsive, user-friendly interfaces  
 ⚛️ Working primarily with React.js & Next.js  
-🔥 Building full-stack apps using Node.js, MongoDB, Firebase & Supabase  
+🔥 Building full-stack apps using Node.js, MongoDB & Firebase  
 📘 Currently learning Advanced React patterns & scalable UI architecture  
+🤖 Using AI-assisted development tools to improve development workflow  
 🎯 Goal: Become a strong, reliable React / Frontend Developer  
 
 ---
@@ -26,9 +27,11 @@
   <a href="https://github.com/SayanX90">
     <img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/sayan-dey-032b6b266">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:sdey2159@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
@@ -39,6 +42,7 @@
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
@@ -51,12 +55,14 @@
 </p>
 
 ### 🎨 Styling & UI
+
 <p>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-8511FA?logo=bootstrap&logoColor=white"/>
 </p>
 
 ### 🗄️ Backend & Database
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"/>
@@ -67,12 +73,23 @@
 </p>
 
 ### 🧰 Tools & Platforms
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-000000?logo=netlify&logoColor=00C7B7"/>
+</p>
+
+### 🤖 AI-Assisted Development
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-000000?logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codex-000000?logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Antigravity-5B4BDB?logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trea-111111?logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?logoColor=white"/>
 </p>
 
 ---
@@ -95,18 +112,13 @@
 
 ---
 
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=github_dark" />
-</p> -->
-
-## 🔝 Top Contributed Repo
+## 📈 Most Used Languages
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SayanX90&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanX90&layout=compact&theme=github_dark&hide_border=true" 
   />
 </p>
-
 
 ---
 

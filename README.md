@@ -16,7 +16,7 @@
 
 💻 Working with React.js, Next.js, JavaScript and Tailwind CSS.
 
-⚙️ Experienced in building practical projects and developing a freelance client application.
+⚙️ Hands-on experience building practical projects 
 
 🗄️ Familiar with Node.js, MongoDB, Firebase and REST APIs.
 

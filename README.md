@@ -12,12 +12,17 @@
 
 ## 💫 About Me
 
-👨‍💻 Frontend Developer focused on building clean, responsive, user-friendly interfaces  
-⚛️ Working primarily with React.js & Next.js  
-🔥 Building full-stack apps using Node.js, MongoDB & Firebase  
-📘 Currently learning Advanced React patterns & scalable UI architecture  
-🤖 Using AI-assisted development tools to improve development workflow  
-🎯 Goal: Become a strong, reliable React / Frontend Developer  
+👋 Front-End Developer focused on building responsive and user-friendly web applications.
+
+💻 Working with React.js, Next.js, JavaScript and Tailwind CSS.
+
+⚙️ Experienced in building practical projects and developing a freelance client application.
+
+🗄️ Familiar with Node.js, MongoDB, Firebase and REST APIs.
+
+🤖 Using AI-assisted development tools for debugging, problem-solving and improving productivity.
+
+🎯 Seeking an opportunity as a Junior Front-End / React Developer.
 
 ---
 

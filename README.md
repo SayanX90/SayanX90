@@ -101,17 +101,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=SayanX90&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" 
-    height="170"
-  />
-</p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=SayanX90&theme=github-dark&hide_border=true" 
-    height="170"
+  <img
+    src="./profile/stats.svg"
+    height="180"
+    alt="SayanX90 GitHub Stats"
   />
 </p>
 
@@ -120,10 +115,12 @@
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayanX90&layout=compact&theme=github_dark&hide_border=true" 
+  <img
+    src="./profile/top-langs.svg"
+    alt="Most Used Languages"
   />
 </p>
+
 
 ---
 
